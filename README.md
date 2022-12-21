@@ -49,9 +49,9 @@ This project enabled me to play around with grid template areas a little more an
 .card-grid {
   grid-template-areas:
     ". two ."
-    "one two three"
-    "one four three"
-    ". four .";
+    "one two four"
+    "one three four"
+    ". three .";
 }
 ```
 

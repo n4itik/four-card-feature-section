@@ -53,9 +53,9 @@ h2 {
   .card-grid {
     grid-template-areas:
       ". two ."
-      "one two three"
-      "one four three"
-      ". four .";
+      "one two four"
+      "one three four"
+      ". three .";
   }
 }
 
