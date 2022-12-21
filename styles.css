@@ -11,6 +11,14 @@ body {
   flex-direction: column;
 }
 
+h2 {
+  font-size: 17px;
+}
+
+.title-paragraph {
+  max-width: 500px;
+}
+
 /* <-- FONT --> */
 
 .bold-heading {
