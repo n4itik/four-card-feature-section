@@ -11,6 +11,11 @@ body {
   flex-direction: column;
 }
 
+main {
+  display: grid;
+  place-items: center;
+}
+
 h2 {
   font-size: 17px;
 }
