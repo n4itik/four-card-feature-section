@@ -11,6 +11,12 @@ body {
   flex-direction: column;
 }
 
+header {
+  width: 75%;
+  display: grid;
+  place-items: center;
+}
+
 main {
   display: grid;
   place-items: center;
@@ -37,6 +43,10 @@ h2 {
   font-weight: 200;
   color: hsl(234, 12%, 34%);
   margin-bottom: 0;
+}
+
+h2.bold-heading {
+  align-self: flex-start;
 }
 
 /* <-- GRID --> */
